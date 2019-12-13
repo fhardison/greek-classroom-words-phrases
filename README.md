@@ -4,7 +4,8 @@ A collection of words and phrases and links to sources for communicative languag
 
 # Google Sheets
 
-[Master Google Sheets doc](https://docs.google.com/spreadsheets/d/1naquQ7M6kol0wEjbjT94fgTR8s7FoQk-1ATKy2kRFIM/edit?usp=sharing) for ongoing compilation
+[Master Google Sheets doc](https://docs.google.com/spreadsheets/d/1naquQ7M6kol0wEjbjT94fgTR8s7FoQk-1ATKy2kRFIM/edit?usp=sharing) for ongoing compilation.
+
 
 # Sources and links of interest
 
@@ -14,6 +15,7 @@ A collection of words and phrases and links to sources for communicative languag
 * Seumas Macdonald's [Out of Control Lexicon](https://sites.google.com/site/intensiveaudiolanguages/home/out-of-control-lexicon) ([excel file](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxpbnRlbnNpdmVhdWRpb2xhbmd1YWdlc3xneDozOWI5NWEzYjAzNDQ5NDIx))
 * Micahel Palmer's [Vocabulary for Teachers and Students of Hellenistic Greek](https://www.greeklanguage.blog/?p=2543)
 * Paul Nitz's [Core Communicative Vocabulary & Koine Phrasebook](https://drive.google.com/file/d/11VWNbleyHdmQ2ajFxiwySbc_PZSG5DUI/view)
+* [Greek-English Phrasebook (Sprechen Sie Attisch)](http://www.letsreadgreek.com/phrasebook/greekenglishphrasebook.pdf)
 
 ## Teaching materials and examples
 
