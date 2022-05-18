@@ -11,8 +11,6 @@ A collection of words and phrases and links to sources for communicative languag
 
 ## Lists and lexicons
 
-* Brian Lantner's [USEFUL CLASSROOM EXPRESSIONS IN ATTIC GREEK](http://www.unm.edu/~blanter/Classroom_Expressions_1.pdf)
-* Michael Palmer's [Vocabulary for Teachers and Students of Hellenistic Greek](https://www.greeklanguage.blog/?p=2543)
 * Paul Nitz's [Core Communicative Vocabulary & Koine Phrasebook](https://drive.google.com/file/d/11VWNbleyHdmQ2ajFxiwySbc_PZSG5DUI/view)
 * [Greek-English Phrasebook (Sprechen Sie Attisch)](http://www.letsreadgreek.com/phrasebook/greekenglishphrasebook.pdf) from letsreadgreek.com
 * [Bill's Late Nite Conversational Ancient Greek Cheat Sheet](https://drive.google.com/file/d/1Z9u9mvXhTefxhr1cvrkaPgwiPFULK7yT/view)
